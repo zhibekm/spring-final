@@ -1,5 +1,5 @@
 /*
- * Copyright 2007-present the original author or authors.
+ * Copyright 2007-present the original author or authors. 
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -91,7 +91,7 @@ public class MavenWrapperDownloader {
             System.out.println("- Error downloading");
             e.printStackTrace();
             System.exit(1);
-        }
+        } 
     }
 
     private static void downloadFileFromURL(String urlString, File destination) throws Exception {
