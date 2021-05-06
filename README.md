@@ -10,4 +10,4 @@ Link to the Heroku: https://zhibek-front.herokuapp.com/
 
 Description: The final project on the subject of Data Structures of the second semester of 2020, the meaning of the project is to create a web project using Java.
 
-![alt teg](Desktop/screenshot.png")
+<img src="https://github.com/zhibekm/spring-final/blob/main/Screenshot%202020-12-27%20203344.png"/>
